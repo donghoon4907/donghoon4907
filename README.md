@@ -1,7 +1,9 @@
-<div align=center>
-  [![Donghoon4907's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghoon4907)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghoon4907&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+  
+[![donghoon4907's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghoon4907&show_icons=true&title_color=000000&bg_color=F6F8FA)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghoon4907&layout=compact&title_color=000000&bg_color=F6F8FA)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
