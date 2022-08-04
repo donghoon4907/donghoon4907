@@ -1,5 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=donghoon4907&show_icons=true&title_color=000000&bg_color=F6F8FA" alt="test" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghoon4907&layout=compact&title_color=000000&bg_color=F6F8FA" alt="test" width="100%" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=donghoon4907&show_icons=true&title_color=000000&bg_color=F6F8FA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghoon4907&layout=compact&title_color=000000&bg_color=F6F8FA" />
+</p>
+
   
 
 
