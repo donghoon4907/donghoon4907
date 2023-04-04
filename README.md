@@ -8,7 +8,3 @@
 - [Frontend-Next](https://github.com/donghoon4907/frisklog-next): 현재 배포된 프로젝트이며, 기존 프로젝트를 Next.js 프레임워크 기반으로 전환하였습니다. 
 - [Backend](https://github.com/donghoon4907/frisklog-server): REST API와 GraphQL로 이루어진 Node.js 서버입니다. ORM은 sequelize를 사용하였습니다.
 - [Backend-Nest](https://github.com/donghoon4907/frisklog-nest-server): 기존 프로젝트를 Nest.js 프레임워크 기반으로 전환하였습니다. ORM은 typeORM으로 전환하였습니다.
-
-2. `Generate-UI`: React로 작성된 UI 제작 프로젝트입니다. HTML이나 CSS를 몰라도 웹 UI를 제작할 수 있도록 하는게 목적입니다. 
-- Vercel에 배포되어 있습니다. [여기](https://generate-ui.vercel.app/)를 눌러서 구경하세요!
-- [Frontend](https://github.com/donghoon4907/generate-ui): Next.js 프레임워크를 활용하여 SSG로 빌드되었습니다. 재사용 가능한 입력 컴포넌트들이 주요 특징입니다. 
